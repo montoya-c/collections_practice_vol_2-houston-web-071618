@@ -20,7 +20,7 @@ describe 'collections practice vol 2.' do
                 :awesomeness => 10,
                      :height => "74",
                   :last_name => "johnson"
-            },
+            }
             "ashley" => {
                 :awesomeness => 9,
                      :height => 60,
